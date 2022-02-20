@@ -6,6 +6,13 @@ body {
     background-color: #C70039;
 }
 
+.nav-item {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    -webkit-text-stroke-width: 1px;
+}
+
 .quem-somos {
     background-color: #FFC300;
     color: black;
